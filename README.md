@@ -1,6 +1,2 @@
-
-
-<!---
-alexandredoyen29/alexandredoyen29 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hi ! I am Alexandre DOYEN, a Ph.D. student in the Binsec team.
+My work is focussed on the fuzzing of security protocols to try to find backdoors.
